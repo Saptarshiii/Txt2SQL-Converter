@@ -1,3 +1,5 @@
+# the databaase schema descried
+
 grocery_schema = """
 Schema:
 
